@@ -8,3 +8,5 @@ git check out
 git log --oneline
 git ls-files
 git config --global user.email "test@test.com"
+git config --global user.name "raj"
+git checkout -b branchname
