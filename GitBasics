@@ -1,0 +1,10 @@
+git init -
+git status
+git add
+git commit
+git merge
+git rebase
+git check out
+git log --oneline
+git ls-files
+git config --global user.email "test@test.com"
